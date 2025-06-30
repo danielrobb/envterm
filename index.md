@@ -1,3 +1,3 @@
 # envterm
 
-[Download Lab Material]( {{ site.url }}/download/envterm.zip )
+<a href="{{ site.url }}/assets/envterm.zip">Download lab material</a>
