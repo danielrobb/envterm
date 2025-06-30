@@ -1,3 +1,3 @@
-# envterm
+# Lab 4: Chlorination
 
-<a href="envterm.zip">Download</a>
+<a href="lab4-chlorine.zip">Download lab material</a>
