@@ -1,3 +1,3 @@
 # Lab 4: Chlorination
 
-<a href="lab4-chlorine.zip">Download lab material</a>
+<a href="lab4.zip">Download lab material</a>
